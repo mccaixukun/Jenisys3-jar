@@ -34,6 +34,7 @@
 
 4. **选语言**：
    - 当控制台显示
+
    xx:xx:xx [INFO] Welcome! Please choose a language first!
 
    xx:xx:xx [INFO] eng => English
@@ -62,7 +63,7 @@
    
    xx:xx:xx [INFO] idn => Indonesia
    
- >
+ > chs
 
   - 选完语言就可以了
 
