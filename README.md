@@ -35,19 +35,33 @@
 4. **选语言**：
    - 当控制台显示
    xx:xx:xx [INFO] Welcome! Please choose a language first!
+
    xx:xx:xx [INFO] eng => English
+   
    xx:xx:xx [INFO] chs => 中文（简体）
+   
    xx:xx:xx [INFO] cht => 中文（繁體）
+   
    xx:xx:xx [INFO] jpn => 日本語
+   
    xx:xx:xx [INFO] rus => Pyccĸий
+   
    xx:xx:xx [INFO] spa => Español
+   
    xx:xx:xx [INFO] pol => Polish
+   
    xx:xx:xx [INFO] bra => Português-Brasil
+   
    xx:xx:xx [INFO] kor => 한국어
+   
    xx:xx:xx [INFO] ukr => Українська
+   
    xx:xx:xx [INFO] deu => Deutsch
+   
    xx:xx:xx [INFO] ltu => Lietuviškai
+   
    xx:xx:xx [INFO] idn => Indonesia
+   
   >
   - 选完语言就可以了
 
