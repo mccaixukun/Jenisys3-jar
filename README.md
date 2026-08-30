@@ -62,7 +62,8 @@
    
    xx:xx:xx [INFO] idn => Indonesia
    
-  >
+ >
+
   - 选完语言就可以了
 
 ---
